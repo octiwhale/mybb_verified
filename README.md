@@ -1,5 +1,7 @@
 # Verification Badges for MyBB
 Foster a safe community with verification badges.
+### Screenshot
+![Screenshot of plugin](https://camo.mybb.com/5c2a1b52a94c114448e05cc665a9a54af1d66c1c/68747470733a2f2f692e6962622e636f2f736a3168344d322f696d6167652e706e67)
 ## Getting Started
 This will take **less than 15 minutes** unless you have a 12 year old computer.
 ### Installation
