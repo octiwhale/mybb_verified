@@ -6,7 +6,7 @@ Foster a safe community with verification badges.
 - Modern icon.
 - Easy to install.
 - Information on hover.
-- Displays emoji if image fails to load.
+- Displays emoji if checkmark fails to load.
 ## Getting Started
 This will take **less than 15 minutes** unless you have a 12 year old computer.
 ### Installation
