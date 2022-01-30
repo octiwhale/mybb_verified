@@ -20,4 +20,4 @@ This will take **less than 15 minutes** unless you have a 12 year old computer.
 
  6. Hit **Save User Group**
 ## Support
-For all support inquires, please post issues on the [project GitHub page](https://github.com/octiwhale/mybb_verified).
+For all support inquiries, please post issues on the [project GitHub page](https://github.com/octiwhale/mybb_verified).
