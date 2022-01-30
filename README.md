@@ -8,6 +8,7 @@ This will take **less than 15 minutes** unless you have a 12 year old computer.
  3. Place the **.ZIP** file into the temporary directory
  4. Unzip the file
  5. Move the contents in the **UPLOAD** folder into your root directory.
+ 6. Delete the temporary directory.
 ### Setup
  1. Head to your **myBB Admin CP**.
  2. Click on the **Users & Groups** tab.
