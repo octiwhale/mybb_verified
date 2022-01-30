@@ -3,10 +3,10 @@ Foster a safe community with verification badges.
 ## Getting Started
 This will take **less than 15 minutes** unless you have a 12 year old computer.
 ### Installation
- 1. Download the [**mybb_verified** repository](https://github.com/octiwhale/mybb_verified)
- 2. Create a **temporary directory** in the installation root
- 3. Place the **.ZIP** file into the temporary directory
- 4. Unzip the file
+ 1. Download the [**mybb_verified** repository](https://github.com/octiwhale/mybb_verified).
+ 2. Create a **temporary directory** in the installation root.
+ 3. Place the **.ZIP** file into the temporary directory.
+ 4. Unzip the file.
  5. Move the contents in the **UPLOAD** folder into your root directory.
  6. Delete the temporary directory.
 ### Setup
