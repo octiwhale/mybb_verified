@@ -7,8 +7,9 @@ Foster a safe community with verification badges.
 - Easy to install.
 - Information on hover.
 - Displays emoji if checkmark fails to load.
+- Well documented
 ## Getting Started
-This will take **less than 15 minutes** unless you have a 12 year old computer.
+This will take **less than 15 minutes** unless you have a 12-year-old computer.
 ### Installation
  1. Download the [**mybb_verified** repository](https://github.com/octiwhale/mybb_verified).
  2. Create a **temporary directory** in the installation root.
